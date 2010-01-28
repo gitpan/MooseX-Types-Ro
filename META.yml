@@ -21,8 +21,9 @@ no_index:
 requires:
   Internals: 1.1
   MooseX::Types: 0
+  namespace::autoclean: 0
 resources:
   homepage: http://github.com/ilmari/moosex-types-ro/tree
   license: http://dev.perl.org/licenses/
   repository: git://github.com/ilmari/moosex-types-ro.git
-version: 0.001
+version: 0.002

@@ -38,7 +38,7 @@ package MooseX::Types::Ro;
 use strict;
 use warnings;
 
-our $VERSION = '0.001';
+our $VERSION = '0.002';
 $VERSION = eval $VERSION;
 
 use MooseX::Types -declare => [qw(RoHashRef RoArrayRef)];

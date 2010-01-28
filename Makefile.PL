@@ -12,6 +12,7 @@ githubmeta;
 
 requires 'Internals'     => '1.1';
 requires 'MooseX::Types' => '0';
+requires 'namespace::autoclean' => '0';
 
 test_requires 'Test::More' => '0.88';
 
